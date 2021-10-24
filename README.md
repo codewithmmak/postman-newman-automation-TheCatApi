@@ -5,7 +5,7 @@
 2. Drag and Drop your collection
 3. Select the tests
 4. Hit Run button
-![Automating OData based RESTful API using POSTMAN](./img/postman-result.png?raw=true "Automating OData based RESTful API using POSTMAN Test Results")
+![API Automation using POSTMAN and running tests using Newman](./img/Test_Runner_01.png?raw=true "POSTMAN Test Runner")
 
 ## How to run Postman Collection using Newman CLI tool?
 1. Open Terminal/CMD
@@ -15,9 +15,9 @@
 `newman run TheCatAPI.postman_collection.json --environment TheCatAPI_Env.postman_environment.json`
 5. CLI will show below results
 
-![API Automation using POSTMAN and running tests using Newman Console Output 1](./Img/cli-result-01.png?raw=true "API Automation using POSTMAN and running tests using Newman Console Output 1")
+![API Automation using POSTMAN and running tests using Newman Console Output 1](./Img/Console_01.png?raw=true "API Automation using POSTMAN and running tests using Newman Console Output 1")
 
-![API Automation using POSTMAN and running tests using Newman Console Output 2](./Img/cli-result-02.png?raw=true "API Automation using POSTMAN and running tests using Newman Console Output 2")
+![API Automation using POSTMAN and running tests using Newman Console Output 2](./Img/Console_02.png?raw=true "API Automation using POSTMAN and running tests using Newman Console Output 2")
 
 ## How to generate HTML report using npm newman-reporter-htmlextra with Newman?
 1. Open Terminal/CMD
