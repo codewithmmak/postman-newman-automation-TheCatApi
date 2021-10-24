@@ -28,9 +28,9 @@
 
 ![API Automation using POSTMAN and running tests using Newman](./Img/Newman_Report_01.png?raw=true "API Automation using POSTMAN and running tests using Newman Test Results 1")
 
-![API Automation using POSTMAN and running tests using Newman](./Img/Newman_Report_01.png?raw=true "API Automation using POSTMAN and running tests using Newman Test Results 2")
+![API Automation using POSTMAN and running tests using Newman](./Img/Newman_Report_02.png?raw=true "API Automation using POSTMAN and running tests using Newman Test Results 2")
 
-![API Automation using POSTMAN and running tests using Newman](./Img/Newman_Report_01.png?raw=true "API Automation using POSTMAN and running tests using Newman Test Results 3")
+![API Automation using POSTMAN and running tests using Newman](./Img/Newman_Report_03.png?raw=true "API Automation using POSTMAN and running tests using Newman Test Results 3")
 
 ## How to generate CSV report using npm newman-reporter-csv with Newman?
 1. Open Terminal/CMD
