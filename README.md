@@ -5,7 +5,7 @@
 2. Drag and Drop your collection
 3. Select the tests
 4. Hit Run button
-![API Automation using POSTMAN and running tests using Newman](./img/Test_Runner_01.png?raw=true "POSTMAN Test Runner")
+![API Automation using POSTMAN and running tests using Newman](./Img/Test_Runner_01.png?raw=true "POSTMAN Test Runner")
 
 ## How to run Postman Collection using Newman CLI tool?
 1. Open Terminal/CMD
